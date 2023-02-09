@@ -1,5 +1,7 @@
-# workflow-template
 ### 个人项目脚手架 集成eslint commit等校验
+
+
+# workflow-template
 workflow-template
 这是个人总结工作流模板,学习下如何创建一个工作流,后续会慢慢增加自己所学的工程化内容进来,目前提供功能
 1. `commit` 代码校验,避免错误代码提交
